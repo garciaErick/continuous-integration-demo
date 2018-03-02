@@ -1,0 +1,9 @@
+C:\Users\erickga1.AMR\Documents\Visual Studio 2015\Projects\CIDemo\CiSharedServices\bin\Release\CiSharedServices.dll
+C:\Users\erickga1.AMR\Documents\Visual Studio 2015\Projects\CIDemo\CiSharedServices\bin\Release\CiSharedServices.pdb
+C:\Users\erickga1.AMR\Documents\Visual Studio 2015\Projects\CIDemo\CiSharedServices\obj\Release\CiSharedServices.dll
+C:\Users\erickga1.AMR\Documents\Visual Studio 2015\Projects\CIDemo\CiSharedServices\obj\Release\CiSharedServices.pdb
+C:\Users\okovalen\Desktop\CIDemo\CiSharedServices\bin\Release\CiSharedServices.dll
+C:\Users\okovalen\Desktop\CIDemo\CiSharedServices\bin\Release\CiSharedServices.pdb
+C:\Users\okovalen\Desktop\CIDemo\CiSharedServices\obj\Release\CiSharedServices.dll
+C:\Users\okovalen\Desktop\CIDemo\CiSharedServices\obj\Release\CiSharedServices.pdb
+C:\Users\okovalen\Desktop\CIDemo\CiSharedServices\obj\Release\CiSharedServices.csprojResolveAssemblyReference.cache

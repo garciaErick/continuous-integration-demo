@@ -1,0 +1,8 @@
+C:\Users\erickga1.AMR\Documents\Visual Studio 2015\Projects\CIDemo\CiSharedServices\bin\Debug\CiSharedServices.dll
+C:\Users\erickga1.AMR\Documents\Visual Studio 2015\Projects\CIDemo\CiSharedServices\bin\Debug\CiSharedServices.pdb
+C:\Users\erickga1.AMR\Documents\Visual Studio 2015\Projects\CIDemo\CiSharedServices\obj\Debug\CiSharedServices.dll
+C:\Users\erickga1.AMR\Documents\Visual Studio 2015\Projects\CIDemo\CiSharedServices\obj\Debug\CiSharedServices.pdb
+C:\Users\okovalen\Desktop\CIDemo\CiSharedServices\bin\Debug\CiSharedServices.dll
+C:\Users\okovalen\Desktop\CIDemo\CiSharedServices\bin\Debug\CiSharedServices.pdb
+C:\Users\okovalen\Desktop\CIDemo\CiSharedServices\obj\Debug\CiSharedServices.dll
+C:\Users\okovalen\Desktop\CIDemo\CiSharedServices\obj\Debug\CiSharedServices.pdb

@@ -1,0 +1,18 @@
+C:\Users\erickga1.AMR\Documents\Visual Studio 2015\Projects\CIDemo\CIServiceDemo\bin\Debug\CIServiceDemo.exe.config
+C:\Users\erickga1.AMR\Documents\Visual Studio 2015\Projects\CIDemo\CIServiceDemo\bin\Debug\CIServiceDemo.exe
+C:\Users\erickga1.AMR\Documents\Visual Studio 2015\Projects\CIDemo\CIServiceDemo\bin\Debug\CIServiceDemo.pdb
+C:\Users\erickga1.AMR\Documents\Visual Studio 2015\Projects\CIDemo\CIServiceDemo\bin\Debug\System.Management.Automation.dll
+C:\Users\erickga1.AMR\Documents\Visual Studio 2015\Projects\CIDemo\CIServiceDemo\obj\Debug\CIServiceDemo.exe
+C:\Users\erickga1.AMR\Documents\Visual Studio 2015\Projects\CIDemo\CIServiceDemo\obj\Debug\CIServiceDemo.pdb
+C:\Users\erickga1.AMR\Documents\Visual Studio 2015\Projects\CIDemo\CIServiceDemo\bin\Debug\CiSharedServices.dll
+C:\Users\erickga1.AMR\Documents\Visual Studio 2015\Projects\CIDemo\CIServiceDemo\bin\Debug\CiSharedServices.pdb
+C:\Users\erickga1.AMR\Documents\Visual Studio 2015\Projects\CIDemo\CIServiceDemo\obj\Debug\CIServiceDemo.csprojResolveAssemblyReference.cache
+C:\Users\okovalen\Desktop\CIDemo\CIServiceDemo\bin\Debug\CIServiceDemo.exe.config
+C:\Users\okovalen\Desktop\CIDemo\CIServiceDemo\obj\Debug\CIServiceDemo.exe
+C:\Users\okovalen\Desktop\CIDemo\CIServiceDemo\obj\Debug\CIServiceDemo.pdb
+C:\Users\okovalen\Desktop\CIDemo\CIServiceDemo\bin\Debug\CIServiceDemo.exe
+C:\Users\okovalen\Desktop\CIDemo\CIServiceDemo\bin\Debug\CIServiceDemo.pdb
+C:\Users\okovalen\Desktop\CIDemo\CIServiceDemo\bin\Debug\CiSharedServices.dll
+C:\Users\okovalen\Desktop\CIDemo\CIServiceDemo\bin\Debug\System.Management.Automation.dll
+C:\Users\okovalen\Desktop\CIDemo\CIServiceDemo\bin\Debug\CiSharedServices.pdb
+C:\Users\okovalen\Desktop\CIDemo\CIServiceDemo\obj\Debug\CIServiceDemo.csprojResolveAssemblyReference.cache

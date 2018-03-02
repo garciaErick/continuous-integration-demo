@@ -1,0 +1,16 @@
+C:\Users\erickga1.AMR\Documents\Visual Studio 2015\Projects\CIDemo\CiServiceDemoClient\bin\Release\CiServiceDemoClient.exe.config
+C:\Users\erickga1.AMR\Documents\Visual Studio 2015\Projects\CIDemo\CiServiceDemoClient\obj\Release\CiServiceDemoClient.csprojResolveAssemblyReference.cache
+C:\Users\erickga1.AMR\Documents\Visual Studio 2015\Projects\CIDemo\CiServiceDemoClient\bin\Release\CiServiceDemoClient.exe
+C:\Users\erickga1.AMR\Documents\Visual Studio 2015\Projects\CIDemo\CiServiceDemoClient\bin\Release\CiServiceDemoClient.pdb
+C:\Users\erickga1.AMR\Documents\Visual Studio 2015\Projects\CIDemo\CiServiceDemoClient\bin\Release\CiSharedServices.dll
+C:\Users\erickga1.AMR\Documents\Visual Studio 2015\Projects\CIDemo\CiServiceDemoClient\bin\Release\CiSharedServices.pdb
+C:\Users\erickga1.AMR\Documents\Visual Studio 2015\Projects\CIDemo\CiServiceDemoClient\obj\Release\CiServiceDemoClient.exe
+C:\Users\erickga1.AMR\Documents\Visual Studio 2015\Projects\CIDemo\CiServiceDemoClient\obj\Release\CiServiceDemoClient.pdb
+C:\Users\okovalen\Desktop\CIDemo\CiServiceDemoClient\bin\Release\CiServiceDemoClient.exe.config
+C:\Users\okovalen\Desktop\CIDemo\CiServiceDemoClient\bin\Release\CiServiceDemoClient.exe
+C:\Users\okovalen\Desktop\CIDemo\CiServiceDemoClient\bin\Release\CiServiceDemoClient.pdb
+C:\Users\okovalen\Desktop\CIDemo\CiServiceDemoClient\bin\Release\CiSharedServices.dll
+C:\Users\okovalen\Desktop\CIDemo\CiServiceDemoClient\bin\Release\CiSharedServices.pdb
+C:\Users\okovalen\Desktop\CIDemo\CiServiceDemoClient\obj\Release\CiServiceDemoClient.csprojResolveAssemblyReference.cache
+C:\Users\okovalen\Desktop\CIDemo\CiServiceDemoClient\obj\Release\CiServiceDemoClient.exe
+C:\Users\okovalen\Desktop\CIDemo\CiServiceDemoClient\obj\Release\CiServiceDemoClient.pdb
